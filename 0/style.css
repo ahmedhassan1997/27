@@ -1,0 +1,12 @@
+video {
+    position: relative;
+    left: 450px;
+    width: 400px;
+    height: 400px;
+}
+audio{
+    position: relative;
+    top: 100px;
+    width: 500px;
+    
+}
